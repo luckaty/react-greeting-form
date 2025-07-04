@@ -4,7 +4,7 @@ A simple and interactive React app that allows users to enter their name and rec
 
 ## 🚀 Demo
 
-![React Greeting Form Screenshot](./screenshot.png)  
+![React Greeting Form Screenshot](/screenshot.png)  
 
 ## ✨ Features
 
@@ -33,11 +33,6 @@ react-greeting-form/
 ├── package.json
 └── README.md
 
-
-## 📸 Preview
-
-<img src="./preview.gif" alt="App Preview" width="600"/>
-> _(Optional: add a GIF or screen recording of your app)_
 
 ## 🛠️ Getting Started
 
