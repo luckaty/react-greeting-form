@@ -4,7 +4,7 @@ A simple and interactive React app that allows users to enter their name and rec
 
 ## 🚀 Demo
 
-![React Greeting Form Screenshot](/screenshot.png)  
+![App Screenshot](./Screenshot.png)
 
 ## ✨ Features
 
